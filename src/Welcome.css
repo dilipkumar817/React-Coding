@@ -1,0 +1,13 @@
+.start-button {
+    font-size: 1.2rem; /* Increase the font size */
+    padding: 5px 25px; /* Add padding to increase the button size */
+    background-color: #007bff; /* Set the button background color */
+    color: #9de21d; /* Set the button text color */
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  
+  .start-button:hover {
+    background-color: #0056b3; /* Change color on hover */
+  }

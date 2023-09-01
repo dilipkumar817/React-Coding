@@ -1,0 +1,11 @@
+/* styles.css */
+
+/* Add your common styles here */
+.home-container {
+    background-color: aqua;
+  }
+
+  body{
+    margin:0;
+    background-color: rgba(239, 130, 239, 0.24);
+  }
